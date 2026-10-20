@@ -1,0 +1,9 @@
+silo,facility,amount_musd,detail,source
+EHC (Physician Services),Revolving Credit Facility,300,committed,First-day declaration
+EHC (Physician Services),Term Loan Facility (all tranches),5450,'first out' through 'fourth out',First-day declaration
+EHC (Physician Services),ABL Facility drawn,440,of up to $550M-$1.0B capacity,First-day declaration
+AMSURG,Revolving Credit Facility,300,committed,First-day declaration
+AMSURG,First Lien Term Loan (incl. incremental),1358,,First-day declaration
+AMSURG,Second Lien Term Loan outstanding,1493,after repurchases,First-day declaration
+Intercompany,Short-term loans outstanding,983,as of 2023-05-14,First-day declaration
+Intercompany,Long-term loans outstanding,848,as of 2023-05-14,First-day declaration
